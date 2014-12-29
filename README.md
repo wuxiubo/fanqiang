@@ -1,3 +1,3 @@
-WindowsÓÃ»§£º<a href="https://github.com/XL2014/fanqiang/raw/master/torbrowser-install-4.0.2_en-US.exe">torbrowser-install-4.0.2_en-US.exe</a><br>
-ÎÄ¼şÇ©Ãû£º<a href="https://raw.githubusercontent.com/XL2014/fanqiang/master/torbrowser-install-4.0.2_en-US.exe.asc">torbrowser-install-4.0.2_en-US.exe.asc</a><br>
+Windowsç”¨æˆ·ï¼š<a href="https://github.com/XL2014/fanqiang/raw/master/torbrowser-install-4.0.2_en-US.exe">torbrowser-install-4.0.2_en-US.exe</a><br>
+æ–‡ä»¶ç­¾åï¼š<a href="https://raw.githubusercontent.com/XL2014/fanqiang/master/torbrowser-install-4.0.2_en-US.exe.asc">torbrowser-install-4.0.2_en-US.exe.asc</a><br>
 <img src="https://raw.githubusercontent.com/XL2014/fanqiang/master/howtofanqiang2.GIF">
